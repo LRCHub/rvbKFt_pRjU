@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hug（feat. kojikoji）",
+  "base_artist": "空音",
+  "createdAt": "2026-03-14T02:49:54.792036Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hug (feat. kojikoji)",
+      "artist": "sorane",
+      "has_synced": true,
+      "path": "select/01_Hug_(feat._kojikoji)_sorane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "hug (feat. kojikoji)",
+      "artist": "sorane",
+      "has_synced": true,
+      "path": "select/02_hug_(feat._kojikoji)_sorane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hug (feat. kojikoji)",
+      "artist": "空音",
+      "has_synced": true,
+      "path": "select/03_Hug_(feat._kojikoji)_空音.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hug feat. kojikoji -Fantasy club ver.-",
+      "artist": "sorane",
+      "has_synced": true,
+      "path": "select/04_Hug_feat._kojikoji_-Fantasy_club_ver.-_sorane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hug feat. kojikoji (Fantasy club ver.)",
+      "artist": "空音",
+      "has_synced": true,
+      "path": "select/05_Hug_feat._kojikoji_(Fantasy_club_ver.)_空音.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hug (feat. kojikoji)",
+      "artist": "空音, kojikoji",
+      "has_synced": true,
+      "path": "select/06_Hug_(feat._kojikoji)_空音,_kojikoji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tig-Hug (feat. Gumi)",
+      "artist": "sasakure.UK feat. GUMI",
+      "has_synced": false,
+      "path": "select/07_Tig-Hug_(feat._Gumi)_sasakure.UK_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hug (feat. Juju)",
+      "artist": "Joeyy",
+      "has_synced": true,
+      "path": "select/08_Hug_(feat._Juju)_Joeyy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hug (feat. HATSUNE MIKU & KAFU)",
+      "artist": "Mimi",
+      "has_synced": false,
+      "path": "select/09_Hug_(feat._HATSUNE_MIKU_&_KAFU)_Mimi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "はぐ - Hug (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/10_はぐ_-_Hug_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "To Summer, From Cole (Audio Hug) [feat. J. Cole]",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/11_To_Summer,_From_Cole_(Audio_Hug)_[feat._J._Cole]_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "tig-hug (feat. GUMI)",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/12_tig-hug_(feat._GUMI)_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "sasakure.UK - tig-hug feat. GUMI",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/13_sasakure.UK_-_tig-hug_feat._GUMI_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hug (feat. Hatsune Miku & KAFU)",
+      "artist": "MIMI, HATSUNE MIKU, KAFU",
+      "has_synced": true,
+      "path": "select/14_Hug_(feat._Hatsune_Miku_&_KAFU)_MIMI,_HATSUNE_MIKU,_KAFU.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hug (feat. 花里みのり, 桐谷遥, 桃井愛莉, 日野森雫 & 鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/15_Hug_(feat._花里みのり,_桐谷遥,_桃井愛莉,_日野森雫_&_鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hug (feat. HATSUNE MIKU & KAFU) (Paused)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/16_Hug_(feat._HATSUNE_MIKU_&_KAFU)_(Paused)_MIMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hug (feat. kojikoji)",
+      "artist": "空音",
+      "has_synced": false,
+      "path": "select/pl_01_Hug_(feat._kojikoji)_空音.txt"
+    }
+  ]
+}
